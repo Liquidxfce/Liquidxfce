@@ -4,6 +4,6 @@ I am studing frontend development at EC utbildningar and have a intrest in games
 
 ## Knowledge
 
- - Languages: HTML/CSS, JavaScript, TypeScript
+ - Languages: HTML/CSS, JavaScript, TypeScript, SQL
  - Frameworks: Express, Angular, React, node.js
  - Tools: Git, VSCode
