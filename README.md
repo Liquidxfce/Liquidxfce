@@ -4,10 +4,6 @@ I am studing frontend development at EC utbildningar and have a intrest in games
 
 ## Knowledge
 
- - Languages: HTML/CSS, JavaScript, TypeScript, SQL
- - Frameworks: Express, Angular, React, node.js
+ - Languages: HTML/CSS, JavaScript, TypeScript, SQL, C#
+ - Frameworks: Express, Angular, React, node.js, ASP.NET Core
  - Tools: Git, VSCode
-
-## Currently learning
-
- - ASP.NET Core C# 
